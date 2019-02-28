@@ -4,8 +4,10 @@
   "description": "Code snippet demo of web scraping using Cheerio",
   "main": "index.js",
   "dependencies": {
+    "axios": "^0.18.0",
     "cheerio": "^1.0.0-rc.2",
     "express": "^4.16.4",
+    "nightmare": "^3.0.1",
     "request": "^2.88.0"
   },
   "devDependencies": {},

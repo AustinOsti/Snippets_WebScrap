@@ -1,5 +1,5 @@
 # Snippets_WebScrap
-Code snippet demo of web scraping using Cheerio
+Code snippet demo retrieval of webpage data using (request, axios or nightmare)and of web scraping using Cheerio
 
 ### Cheerio selectors
 In Cherrio, we use selectors to select tags of an HTML document. The selector syntax was borrowed from jQuery.
