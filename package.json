@@ -1,0 +1,26 @@
+{
+  "name": "snippets_webscrap",
+  "version": "1.0.0",
+  "description": "Code snippet demo of web scraping using Cheerio",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AustinOsti/Snippets_WebScrap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AustinOsti/Snippets_WebScrap/issues"
+  },
+  "homepage": "https://github.com/AustinOsti/Snippets_WebScrap#readme"
+}
